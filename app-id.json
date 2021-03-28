@@ -1,0 +1,13 @@
+{
+  "trustedFacets" : [{
+    "version": { "major": 1, "minor" : 0 },
+    "ids": [
+        "https://sulu.strafeservers.com",
+        "https://mudd.strafeservers.com",
+        "https://rand.strafeservers.com",
+        "https://riker.strafeservers.com",
+        "https://forge.strafeservers.com",
+        "https://riley.strafeservers.com"
+    ]
+  }]
+}
