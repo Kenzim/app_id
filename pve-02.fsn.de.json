@@ -1,0 +1,21 @@
+  
+{
+  "trustedFacets" : [{
+    "version": { "major": 1, "minor" : 0 },
+    "ids": [
+        "https://hv-01.pve-02.fsn.de.strf.io:8006",
+        "https://hv-02.pve-02.fsn.de.strf.io:8006",
+        "https://hv-03.pve-02.fsn.de.strf.io:8006",
+        "https://hv-04.pve-02.fsn.de.strf.io:8006",
+        "https://hv-05.pve-02.fsn.de.strf.io:8006",
+        "https://hv-06.pve-02.fsn.de.strf.io:8006",
+        "https://hv-07.pve-02.fsn.de.strf.io:8006",
+        "https://hv-08.pve-02.fsn.de.strf.io:8006",
+        "https://hv-09.pve-02.fsn.de.strf.io:8006",
+        "https://hv-10.pve-02.fsn.de.strf.io:8006",
+        "https://hv-11.pve-02.fsn.de.strf.io:8006",
+        "https://hv-12.pve-02.fsn.de.strf.io:8006",
+        "https://pve-02.fsn.de.strf.io:8006"
+    ]
+  }]
+}
